@@ -14,6 +14,7 @@ This project is an **Expense Management System** that integrates a **Streamlit f
 
 ## 📂 **Project Structure**
 
+```
 PROJECT_EXPENSE_TRACKER/
 ├── backend/                # FastAPI backend code
 │   ├── Db_Helper.py       # Helper functions for database interactions
@@ -29,6 +30,7 @@ PROJECT_EXPENSE_TRACKER/
 │   └── frontend/          # Frontend tests
 ├── requirements.txt        # Required Python packages for the project
 ├── README.md               # Project overview and setup instructions
+```
 
 ---
 
